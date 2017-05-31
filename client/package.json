@@ -1,8 +1,8 @@
 {
   "name": "dashboardsia",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Angarsk8 <andresa.garciah621@gmail.com>",
+  "description": "Dashboard",
+  "author": "Christabella",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -50,7 +50,7 @@
     "webpack": "^1.13.2",
     "webpack-dev-middleware": "^1.8.3",
     "webpack-hot-middleware": "^2.12.2",
-    "webpack-merge": "^0.14.1"
+    "webpack-merge": "^4.1.0"
   },
   "engines": {
     "node": ">= 4.0.0",
