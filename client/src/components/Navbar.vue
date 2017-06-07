@@ -15,7 +15,7 @@
           <span></span>
           <span></span>
         </span>
-        <!-- This "nav-menu" is hidden on mobile -->
+        <!-- This "nav-menu" is shown on mobile -->
         <!-- @todo Add the modifier "is-active" to display it on mobile -->
         <div class="nav-right nav-menu">
           <a class="nav-item is-tab is-hidden-tablet is-active">Critical Stock</a>

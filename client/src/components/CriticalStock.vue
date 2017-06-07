@@ -31,32 +31,36 @@
                     <td>Boeing</td>
                   </tr>
                   <tr>
-                    <th>Fleet</th>
-                    <td>B777, B737</td>
-                  </tr>
-                  <tr>
                     <th>Qty per A/C</th>
                     <td>2</td>
                   </tr>
                   <tr>
-                    <th>Interchangeable PN</th>
+                    <th>FFF</th>
                     <td>#231354</td>
-                  </tr>
-                  <tr>
-                    <th>Average time send out to ISQ</th>
-                    <td>12 days</td>
-                  </tr>
-                  <tr>
-                    <th>Average time send out to Vendor</th>
-                    <td>15 days</td>
-                  </tr>
-                  <tr>
-                    <th>Average time send out for QI</th>
-                    <td>8 days</td>
                   </tr>
                   <tr>
                     <th>Total TAT</th>
                     <td>20 days</td>
+                  </tr>
+                  <tr>
+                    <th>MATL GRP</th>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th>ATA Chap</th>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th>SPC</th>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th>ESS</th>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th>MTBUR</th>
+                    <td></td>
                   </tr>
                 </tbody>
               </table> 
@@ -98,7 +102,7 @@
         <table class="table is-striped">
           <thead>
             <tr>
-              <td>Year</td>
+              <td>Period</td>
               <td>Date</td>
               <td>Quantity Demanded</td>
             </tr>
@@ -153,7 +157,7 @@
         </table>
         <div class="tile box is-child">
           <p class="title is-5">
-            <strong>Analysis of Demand:</strong>
+            <strong>DEMAND PATTERN:</strong>
             <span class="tag is-info is-large">Lumpy</span>
           </p>
         
@@ -164,8 +168,20 @@
             <strong>CV:</strong>
             <span class="tag is-info is-medium">0.98</span>
           </p>
+
+          <option>Short term</option>
+          <option>Long term</option>
+          
           <p class="title is-5">
-            <strong>Demand for Next Quarter:</strong>
+            <strong>Optimal Stock Level</strong>
+            <span class="tag is-primary is-large">2</span>
+          </p>
+          <p class="title is-5">
+            <strong>Current Stock Level</strong>
+            <span class="tag is-primary is-large">2</span>
+          </p>
+          <p class="title is-5">
+            <strong>Difference</strong>
             <span class="tag is-primary is-large">2</span>
           </p>
         </div>
